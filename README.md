@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando com Javascript
 - 🌱 Estudando frequentemente Java e Python
-- ❤  Meu objetivo é especializar na área de dados!
+- ❤  Meu objetivo é ser engenheiro de dados!
 - ✉️ Entre em contato: pedroccpessoal@gmail.com
 
 <div style="display: inline_block"><br>
